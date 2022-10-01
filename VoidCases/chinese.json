@@ -230,10 +230,31 @@
 	"add_rarity": "创建新的稀有值",
 
 	"viewing_inventory": "正在查看 :name: 的库存",
-	"pointshop_money": "Pointshop :x: 点数",
+	"pointshop_money": "Pointshop  点数",
 	
 	"settings_menubind": "按键绑定",
 	"settings_menubind_desc": "绑定打开Voidcases菜单的按键.",
+
+	"lua_code": "运行Lua代码",
+	"put_to_inventory": "发送到库存",
+	"equip_all": "使用全部",
+	"equip_multiple": "使用指定数量....",
+	
+	"equip_all_confirm": "你确定要使用你库存内的所有 :item: 吗?",
+	"equip_multiple_confirm": "你想使用你库存里多少数量的 :item: 呢?",
+	"move_to_category": "移动分类",
+	"select_category": "你想把 :item: 移动到哪个分类呢?",
+	"change": "移动",
+	
+	"marketplace_blacklist": "禁止交易",
+	"move_up": "向上移动",
+	"move_down": "向下移动",
+
+	"duplicate": "复制物品",
+	"duplicate_confirm": "确定要复制一个 :item: 吗?",
+
+	"settings_npcmodel": "NPC模型",
+	"settings_npcmodel_desc": "NPC使用的模型",
 
 	"options": "选项"
 }
